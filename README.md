@@ -1,6 +1,3 @@
-<!-- NODE: REANS UENS | FRAME SYNC: LOCK | SIGNAL: NOMINAL -->
-
-```
 ┌─────────────────────────── DOMAIN MAP ───────────────────────────┐
 │                                                                   │
 │   GNC / Sensor Fusion     Embedded / TinyML     Quantum / Cryo   │
@@ -28,14 +25,10 @@
 │   Rust  ·  Python  ·  Julia  ·  Typst  ·  C  ·  SvelteKit       │
 │   STM32F407  ·  ESP32-C3  ·  20MHz scope  ·  24MHz analyzer      │
 │                                                                   │
+├─────────────────────── NAV VECTOR ───────────────────────────────┤
 │                                                                   │
+│   CURRENT : Baghdad, IQ — Aeronautical Eng. Yr 5                 │
+│   TARGET  : MSc — TU Delft · KTH · Imperial College London       │
 │   DOMAIN  : GNC · Avionics · Embedded Systems                    │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-<sub>uplink open · frame sync: lock · awaiting command vector</sub>
-</div>
