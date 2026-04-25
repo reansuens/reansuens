@@ -7,5 +7,9 @@ I write firmware in Rust. And have spent the last year building and testing sens
 I enjoy reading about gps denied navigation and state estimation using internal components.
 
 ---
-
-`Rust` `Julia`  `Typst` `STM32` `ESP32` `GNC` `Sensor Fusion` `Quantum Systems` `CAD` `FEA`
+# My Core
+`Rust` `Julia` `Ada/Spark`  `Typst` 
+`STM32` `ESP32`
+`GNC` `Sensor Fusion`
+`Quantum Systems` `RF Systems`
+`CAD` `FEA` 
