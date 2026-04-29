@@ -6,6 +6,7 @@ I write firmware in Rust. And have spent the last year building and testing sens
 
 I enjoy reading about gps denied navigation and state estimation using internal components.
 
+
 ---
 # My Core
 `Rust` `Julia` `Ada/Spark`  `Typst` 
