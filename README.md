@@ -11,8 +11,8 @@ I enjoy reading about gps denied navigation and state estimation using internal 
 
 ---
 # My Core
-`Rust` `Julia` `Ada/Spark`  `Typst` 
+`Machine Learning` `Rust` `Julia` `Ada/Spark`  `Typst` 
 `STM32` `ESP32`
 `GNC` `Sensor Fusion`
 `Quantum Systems` `RF Systems`
-`CAD` `FEA` 
+`CAD` `FEA`  
